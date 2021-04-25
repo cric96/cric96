@@ -2,3 +2,9 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cric96&hide=jupyter%20notebook,lua&theme=dracula&bg_color=135,0F2027,203A43,2C5364)](https://github.com/anuraghazra/github-readme-stats)
 
+And why not, some random kittens :))
+
+<img
+  src="https://thiscatdoesnotexist.com/"
+/>
+
