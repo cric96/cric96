@@ -8,6 +8,8 @@
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=cric96&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=cric96&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
+
 ## :link: Link to other sites
 
 <img
