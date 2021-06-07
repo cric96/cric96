@@ -1,5 +1,6 @@
 ## :robot: Gianluca Aguzzi
-
+![Scala](https://img.shields.io/badge/Scala-Fluent-red)
+![Java](https://img.shields.io/badge/JavaScript-Intermediate-yellow)
 ## :rocket: Developer Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cric96&theme=dracula&bg_color=45,0F2027,203A43,2C5364)
