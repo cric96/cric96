@@ -1,6 +1,7 @@
 ## :robot: Gianluca Aguzzi
 ![Scala](https://img.shields.io/badge/Scala-Fluent-red)
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
+![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-greem)
 
 Hi! I am a PhD Computer Science student at the University of Bologna. My current research topics concern Large Scale Distributed System, Machine Learning and Evolutionary Computing. I consider myself also a good software engineer. In free time I enjoy studying new programming language, paradigm and toolkit.
 
