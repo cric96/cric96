@@ -13,15 +13,17 @@ Hi! I am a PhD Computer Science student at the University of Bologna. My current
 
 ## :rocket: Developer Stats
 <div align="center">
-  
   [![trophy](https://github-profile-trophy.vercel.app/?username=cric96&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cric96&theme=dracula&bg_color=45,0F2027,203A43,2C5364)
-
+  
   [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=cric96&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats)
 
   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cric96&hide=jupyter%20notebook,lua&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
+  <a href="https://app.codiga.io/public/user/github/cric96">
+     <img src="https://api.codiga.io/public/badge/user/github/cric96?style=dark" alt="codiga badge" />
+  </a>
+  
 </div>
 
 ## :link: Link to other sites
