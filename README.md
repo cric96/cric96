@@ -13,6 +13,7 @@ Hi! I am a PhD Computer Science student at the University of Bologna. My current
 
 ## :rocket: Developer Stats
 <div align="center">
+  
   [![trophy](https://github-profile-trophy.vercel.app/?username=cric96&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
 
   ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cric96&theme=dracula&bg_color=45,0F2027,203A43,2C5364)
