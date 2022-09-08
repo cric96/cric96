@@ -30,7 +30,7 @@ Hi! I am a PhD Computer Science student at the University of Bologna. My current
 ## :link: Link to other sites
 
 <img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cric96&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:10px"
+  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cric96&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px"
 />
 
 <div align="center">
