@@ -29,9 +29,7 @@ Hi! I am a PhD Computer Science student at the University of Bologna. My current
 
 ## :link: Link to other sites
 
-<img
-  src="https://cr-ss-service.azurewebsites.net/api/ScreenShot?widget=summary&username=cric96&badges=3&show-avatar=false&style=--header-bg-color:%23000;--border-radius:5px"
-/>
+[![image](https://user-images.githubusercontent.com/23448811/189938657-2169b893-2d1f-4768-abba-8a0ce2b5cabd.png)](https://profile.codersrank.io/user/cric96)
 
 <div align="center">
  
