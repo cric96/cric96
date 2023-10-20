@@ -1,9 +1,13 @@
 
-## :robot: Gianluca Aguzzi
+## :robot: Gianluca Aguzzi 
+![](https://komarev.com/ghpvc/?username=cric96&style=for-the-badge)
+
 ![Scala](https://img.shields.io/badge/Scala-Fluent-red)
 ![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
 ![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-greem)
+
+
 
 Hi! I am a PhD Computer Science student at the University of Bologna. My current research topics concern Large Scale Distributed System and Machine Learning. In free time I enjoy studying new programming language, paradigm and toolkit, and playing Zelda games, obviously.
 
