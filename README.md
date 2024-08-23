@@ -15,10 +15,10 @@
 
 
 
-Hi! I am a PhD Computer Science student at the University of Bologna. My current research topics concern Large Scale Distributed System and Machine Learning. In free time I enjoy studying new programming language, paradigm and toolkit, and playing Zelda games, obviously.
+Hi! I am a Postdoctoral research in Computer Science student at the University of Bologna. My current research topics concern large scala distributed system engineering and many-agent reinforcement learning. 
 
 ### 📬 Get in Touch
-- Site: https://cric96.github.io/ **incomplete**
+- Site: https://www.unibo.it/sitoweb/gianluca.aguzzi/en
 - E-mail: gianluca.aguzzi@unibo.it
 
 ## :rocket: Developer Stats
