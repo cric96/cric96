@@ -15,10 +15,10 @@
 
 
 
-Hi! I am a Postdoctoral research in Computer Science student at the University of Bologna. My current research topics concern large scala distributed system engineering and many-agent reinforcement learning. 
+Hi! I am a postdoctoral researcher in Computer Science at the University of Bologna. My current research topics concern large Scala distributed system engineering and many-agent reinforcement learning. 
 
 ### 📬 Get in Touch
-- Site: https://www.unibo.it/sitoweb/gianluca.aguzzi/en
+- Site: [https://cric96.github.io/](https://cric96.github.io/)
 - E-mail: gianluca.aguzzi@unibo.it
 
 ## :rocket: Developer Stats
