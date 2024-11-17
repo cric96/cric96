@@ -15,7 +15,7 @@
 
 
 
-Hi! I am a postdoctoral researcher in Computer Science at the University of Bologna. My current research topics concern large Scala distributed system engineering and many-agent reinforcement learning. 
+Hi! I am a postdoctoral researcher in Computer Science at the University of Bologna. My current research topics concern large scale distributed system engineering and many-agent reinforcement learning. 
 
 ### 📬 Get in Touch
 - Site: [https://cric96.github.io/](https://cric96.github.io/)
