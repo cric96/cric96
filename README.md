@@ -9,9 +9,9 @@
 ![](https://komarev.com/ghpvc/?username=cric96&style=for-the-badge)
   
 ![Scala](https://img.shields.io/badge/Scala-Fluent-red)
-![Java](https://img.shields.io/badge/Java-Intermediate-yellow)
+![Java](https://img.shields.io/badge/Java-Fluent-red)
 ![Python](https://img.shields.io/badge/Python-Intermediate-yellow)
-![Kotlin](https://img.shields.io/badge/Kotlin-Beginner-greem)
+![Kotlin](https://img.shields.io/badge/Kotlin-Intermediate-yellow)
 
 
 
