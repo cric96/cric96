@@ -22,6 +22,13 @@ Hi! I am a postdoctoral researcher in Computer Science at the University of Bolo
 - E-mail: gianluca.aguzzi@unibo.it
 
 ## :rocket: Developer Stats
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cric96/cric96/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cric96/cric96/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cric96/cric96/output/pacman-contribution-graph.svg">
+</picture>
+
 <div align="center">
   
   [![trophy](https://github-profile-trophy.vercel.app/?username=cric96&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
