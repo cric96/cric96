@@ -32,8 +32,6 @@ Hi! I am a postdoctoral researcher in Computer Science at the University of Bolo
   
 </div>
 
-[![image](https://user-images.githubusercontent.com/23448811/189938657-2169b893-2d1f-4768-abba-8a0ce2b5cabd.png)](https://profile.codersrank.io/user/cric96)
-
 <div align="center">
  
 
