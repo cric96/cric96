@@ -21,24 +21,6 @@ Hi! I am a postdoctoral researcher in Computer Science at the University of Bolo
 - Site: [https://cric96.github.io/](https://cric96.github.io/)
 - E-mail: gianluca.aguzzi@unibo.it
 
-## :rocket: Developer Stats
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/cric96/cric96/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/cric96/cric96/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/cric96/cric96/output/pacman-contribution-graph.svg">
-</picture>
-
-<div align="center">
-  
-  [![trophy](https://github-profile-trophy.vercel.app/?username=cric96&theme=dracula&row=1)](https://github.com/ryo-ma/github-profile-trophy)
-
-  ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=cric96&theme=dracula&bg_color=45,0F2027,203A43,2C5364)
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cric96&hide=jupyter%20notebook,lua&theme=dracula&bg_color=135,0F2027,203A43,2C5364&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-  <!--[![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=cric96&theme=dracula)](https://github.com/DenverCoder1/github-readme-streak-stats) -->
-  
-</div>
-
 <div align="center">
  
 
