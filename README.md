@@ -22,7 +22,7 @@
 
 </div>
 
-## 👨‍💻 About Me & Tech Stack
+## :robot: About Me & Tech Stack
 
 I’m fascinated by all things related to [emergence](https://en.wikipedia.org/wiki/Emergence) and [complexity](https://en.wikipedia.org/wiki/Complex_system). My research focuses on engineering [collective adaptive systems](https://www.unige.ch/cui/cas/). 
 
@@ -91,8 +91,8 @@ For the latest updates on my courses, please refer to my [official university pa
 ## 📊 GitHub Metrics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=cric96&show_icons=true&theme=transparent" alt="Gianluca's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=cric96&layout=compact&theme=transparent" alt="Top Languages" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cric96&theme=transparent" alt="Gianluca's GitHub Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cric96&theme=transparent" alt="Top Languages" />
   <br><br>
   <a href="https://stackexchange.com/users/14252622">
     <img src="https://stackexchange.com/users/flair/14252622.png?theme=dark" width="208" height="58" alt="Stack Exchange Profile" />
