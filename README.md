@@ -45,22 +45,22 @@ Beyond research, I’m a huge Scala enthusiast!
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🪐 <a href="https://github.com/scafi/scafi">ScaFi</a></h3>
-      <p>Core contributor. A Scala framework for aggregate programming, including tools like <a href="https://ieeexplore.ieee.org/document/10771268">ScaFi Web</a> and <a href="https://github.com/cric96/ScaFi-Blocks">ScaFi Blocks</a>.</p>
+      <b>🪐 <a href="https://github.com/scafi/scafi">ScaFi</a></b><br><br>
+      Core contributor. A Scala framework for aggregate programming, including tools like <a href="https://ieeexplore.ieee.org/document/10771268">ScaFi Web</a> and <a href="https://github.com/cric96/ScaFi-Blocks">ScaFi Blocks</a>.
     </td>
     <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/phyelds/phyelds">Phyelds</a></h3>
-      <p>A Python framework designed to bring aggregate programming concepts and field-based coordination to Python.</p>
+      <b>🐍 <a href="https://github.com/phyelds/phyelds">Phyelds</a></b><br><br>
+      A Python framework designed to bring aggregate programming concepts and field-based coordination to Python.
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧠 <a href="https://f14-bertolotti.github.io/shacpp/">SHAC++</a></h3>
-      <p>A novel algorithm for managing multi-agent systems using differentiable reinforcement learning.</p>
+      <b>🧠 <a href="https://f14-bertolotti.github.io/shacpp/">SHAC++</a></b><br><br>
+      A novel algorithm for managing multi-agent systems using differentiable reinforcement learning.
     </td>
     <td width="50%" valign="top">
-      <h3>🚁 <a href="https://github.com/Project-Emerge">Project Emerge</a></h3>
-      <p>A hands-on project showcased at the European Researchers’ Night featuring the creation of real, autonomous drones.</p>
+      <b>🚁 <a href="https://github.com/Project-Emerge">Project Emerge</a></b><br><br>
+      A hands-on project showcased at the European Researchers' Night featuring the creation of real, autonomous drones.
     </td>
   </tr>
 </table>
