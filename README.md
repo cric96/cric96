@@ -21,99 +21,136 @@
 
 </div>
 
-## 🤖 About Me
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-about-dark.svg"/>
+  <img src="assets/section-about-light.svg" width="100%" alt="About"/>
+</picture>
 
 I'm fascinated by all things related to [emergence](https://en.wikipedia.org/wiki/Emergence) and [complexity](https://en.wikipedia.org/wiki/Complex_system). My research focuses on engineering [collective adaptive systems](https://www.unige.ch/cui/cas/), and in particular on:
 
-- 🌐 **Aggregate computing** — programming large-scale distributed systems as a whole ([intro](https://ieeexplore.ieee.org/document/7274429))
-- 🧠 **Multi-agent cooperative reinforcement learning** — learning collective behaviours instead of hand-coding them
-- 🤝 **Foundation models for software engineering** — from requirement management to development
+- **Aggregate computing**: programming large-scale distributed systems as a whole ([intro](https://ieeexplore.ieee.org/document/7274429))
+- **Multi-agent cooperative reinforcement learning**: learning collective behaviours instead of hand-coding them
+- **Foundation models for software engineering**: from requirement management to development
 
-Beyond research, I'm a huge **Scala** enthusiast!
+Beyond research, I'm a huge **Scala** enthusiast, and I work as a consultant on software architecture and AI-assisted development.
 
-<p>
-  <img src="https://img.shields.io/badge/Scala-1e293b?style=for-the-badge&logo=scala&logoColor=f87171" alt="Scala"/>
-  <img src="https://img.shields.io/badge/Java-1e293b?style=for-the-badge&logo=openjdk&logoColor=fb923c" alt="Java"/>
-  <img src="https://img.shields.io/badge/Python-1e293b?style=for-the-badge&logo=python&logoColor=facc15" alt="Python"/>
-  <img src="https://img.shields.io/badge/Kotlin-1e293b?style=for-the-badge&logo=kotlin&logoColor=a78bfa" alt="Kotlin"/>
-</p>
+<br>
 
-## 🔬 Featured Projects
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-tech-stack-dark.svg"/>
+  <img src="assets/section-tech-stack-light.svg" width="100%" alt="Tech stack"/>
+</picture>
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🪐 <a href="https://github.com/scafi/scafi">ScaFi</a></h3>
-      <a href="https://github.com/scafi/scafi"><img src="https://img.shields.io/github/stars/scafi/scafi?style=social" alt="ScaFi stars"/></a>
-      <p>Core contributor. A Scala framework for aggregate programming, with tools like <a href="https://ieeexplore.ieee.org/document/10771268">ScaFi Web</a> and <a href="https://github.com/cric96/ScaFi-Blocks">ScaFi Blocks</a>.</p>
-      📄 <a href="https://doi.org/10.1016/j.softx.2022.101248">SoftwareX '22</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🐍 <a href="https://github.com/phyelds/phyelds">Phyelds</a></h3>
-      <a href="https://github.com/phyelds/phyelds"><img src="https://img.shields.io/github/stars/phyelds/phyelds?style=social" alt="Phyelds stars"/></a>
-      <p>Aggregate computing, reimagined for Python: field-based coordination for adaptive, distributed systems.</p>
-      📄 <a href="https://doi.org/10.1007/978-3-032-28358-0_9">COORDINATION '26</a>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧠 <a href="https://f14-bertolotti.github.io/shacpp/">SHAC++</a></h3>
-      <a href="https://github.com/f14-bertolotti/shacpp"><img src="https://img.shields.io/github/stars/f14-bertolotti/shacpp?style=social" alt="SHAC++ stars"/></a>
-      <p>A novel algorithm for multi-agent systems based on differentiable reinforcement learning.</p>
-      📄 <a href="https://doi.org/10.3233/FAIA251138">ECAI '25</a>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚁 <a href="https://github.com/Project-Emerge">Project Emerge</a></h3>
-      <a href="https://github.com/Project-Emerge/Project-Emerge-system"><img src="https://img.shields.io/github/stars/Project-Emerge/Project-Emerge-system?style=social" alt="Project Emerge stars"/></a>
-      <p>Hands-on demo with real autonomous drones, showcased at the European Researchers' Night.</p>
-      📄 <a href="https://doi.org/10.1016/j.scico.2026.103559">Science of Computer Programming '26</a>
-    </td>
-  </tr>
-</table>
+**Languages**<br>
+<img src="https://img.shields.io/badge/Scala-1e293b?style=flat-square&logo=scala&logoColor=f87171" alt="Scala"/>
+<img src="https://img.shields.io/badge/Java-1e293b?style=flat-square&logo=openjdk&logoColor=fb923c" alt="Java"/>
+<img src="https://img.shields.io/badge/Python-1e293b?style=flat-square&logo=python&logoColor=facc15" alt="Python"/>
+<img src="https://img.shields.io/badge/Kotlin-1e293b?style=flat-square&logo=kotlin&logoColor=a78bfa" alt="Kotlin"/>
+<img src="https://img.shields.io/badge/C%2B%2B-1e293b?style=flat-square&logo=cplusplus&logoColor=60a5fa" alt="C++"/>
+<img src="https://img.shields.io/badge/C-1e293b?style=flat-square&logo=c&logoColor=93c5fd" alt="C"/>
+<img src="https://img.shields.io/badge/JavaScript-1e293b?style=flat-square&logo=javascript&logoColor=facc15" alt="JavaScript"/>
+<img src="https://img.shields.io/badge/Prolog-1e293b?style=flat-square" alt="Prolog"/>
 
-## 📄 Selected Publications
+**Scala & JVM**<br>
+<img src="https://img.shields.io/badge/Akka-1e293b?style=flat-square" alt="Akka"/>
+<img src="https://img.shields.io/badge/Monix-1e293b?style=flat-square" alt="Monix"/>
+<img src="https://img.shields.io/badge/Scala_Native-1e293b?style=flat-square&logo=scala&logoColor=f87171" alt="Scala Native"/>
+<img src="https://img.shields.io/badge/ScalaTest-1e293b?style=flat-square" alt="ScalaTest"/>
+<img src="https://img.shields.io/badge/sbt-1e293b?style=flat-square" alt="sbt"/>
+<img src="https://img.shields.io/badge/Jetpack_Compose-1e293b?style=flat-square&logo=jetpackcompose&logoColor=4ade80" alt="Jetpack Compose"/>
 
-**🌐 Aggregate Computing & Swarm Programming**
+**Machine learning & LLMs**<br>
+<img src="https://img.shields.io/badge/PyTorch-1e293b?style=flat-square&logo=pytorch&logoColor=fb923c" alt="PyTorch"/>
+<img src="https://img.shields.io/badge/LangChain-1e293b?style=flat-square&logo=langchain&logoColor=2dd4bf" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangChain4j-1e293b?style=flat-square&logo=langchain&logoColor=2dd4bf" alt="LangChain4j"/>
+<img src="https://img.shields.io/badge/Ollama-1e293b?style=flat-square&logo=ollama&logoColor=white" alt="Ollama"/>
+
+**Tooling**<br>
+<img src="https://img.shields.io/badge/Docker-1e293b?style=flat-square&logo=docker&logoColor=38bdf8" alt="Docker"/>
+<img src="https://img.shields.io/badge/Git-1e293b?style=flat-square&logo=git&logoColor=f87171" alt="Git"/>
+<img src="https://img.shields.io/badge/Linux-1e293b?style=flat-square&logo=linux&logoColor=facc15" alt="Linux"/>
+<img src="https://img.shields.io/badge/IntelliJ_IDEA-1e293b?style=flat-square&logo=intellijidea&logoColor=f472b6" alt="IntelliJ IDEA"/>
+<img src="https://img.shields.io/badge/LaTeX-1e293b?style=flat-square&logo=latex&logoColor=white" alt="LaTeX"/>
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-featured-projects-dark.svg"/>
+  <img src="assets/section-featured-projects-light.svg" width="100%" alt="Featured projects"/>
+</picture>
+
+**[ScaFi](https://github.com/scafi/scafi)** · core contributor<br>
+Scala DSL and toolkit for aggregate programming, with the [ScaFi Web](https://github.com/scafi/scafi-web) playground and the low-code [ScaFi Blocks](https://github.com/cric96/ScaFi-Blocks) editor. [<kbd>SoftwareX '22</kbd>](https://doi.org/10.1016/j.softx.2022.101248)
+
+**[MacroSwarm](https://github.com/scafi/macro-swarm)** · designer<br>
+Field-based compositional library for programming swarm behaviours on top of ScaFi. [<kbd>LMCS '25</kbd>](https://doi.org/10.46298/lmcs-21(3:13)2025)
+
+**[Phyelds](https://github.com/phyelds/phyelds)** · designer<br>
+Aggregate computing, reimagined for Python: field-based coordination for adaptive, distributed systems. [<kbd>COORDINATION '26</kbd>](https://doi.org/10.1007/978-3-032-28358-0_9)
+
+**[ScaRLib](https://github.com/ScaRLib-group/ScaRLib)** · designer<br>
+Scala framework for cooperative many-agent deep reinforcement learning. [<kbd>SCP '24</kbd>](https://doi.org/10.1016/j.scico.2024.103176)
+
+**[SHAC++](https://f14-bertolotti.github.io/shacpp/)** · co-author<br>
+Multi-agent policy learning through differentiable simulators. [<kbd>ECAI '25</kbd>](https://doi.org/10.3233/FAIA251138)
+
+**[Project Emerge](https://github.com/Project-Emerge)** · co-author<br>
+Demonstrator of self-organising teams of real autonomous drones, shown at the European Researchers' Night. [<kbd>SCP '26</kbd>](https://doi.org/10.1016/j.scico.2026.103559)
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-selected-publications-dark.svg"/>
+  <img src="assets/section-selected-publications-light.svg" width="100%" alt="Selected publications"/>
+</picture>
+
+**Aggregate computing & swarm programming**
 - <kbd>ACM TOSEM '25</kbd> [Software Engineering for Collective Cyber-Physical Ecosystems](https://doi.org/10.1145/3712004)
 - <kbd>LMCS '25</kbd> [MacroSwarm: A Field-based Compositional Framework for Swarm Programming](https://doi.org/10.46298/lmcs-21(3:13)2025)
 - <kbd>SoftwareX '22</kbd> [ScaFi: A Scala DSL and Toolkit for Aggregate Programming](https://doi.org/10.1016/j.softx.2022.101248)
 
-**🧠 Learning in Collective Systems**
+**Learning in collective systems**
 - <kbd>ECAI '25</kbd> [SHAC++: A Neural Network to Rule All Differentiable Simulators](https://doi.org/10.3233/FAIA251138)
 - <kbd>LMCS '26</kbd> [FBFL: A Field-Based Coordination Approach for Data Heterogeneity in Federated Learning](https://doi.org/10.46298/lmcs-22(1:19)2026)
 - <kbd>FGCS '26</kbd> [Heterogeneous GNN for Collective-Task Offloading in Cloud-Edge via Deep Q-Learning](https://doi.org/10.1016/j.future.2026.108539)
 
-**🤖 LLMs, Agents & Software Engineering**
+**LLMs, agents & software engineering**
 - <kbd>ACM TIoT '25</kbd> [A Language-based Approach to Macroprogramming for IoT Systems through Large Language Models](https://doi.org/10.1145/3758326)
 - <kbd>JSS '26</kbd> [Java Academic Benchmark: Exam-based Evaluation of LLMs on Object-Oriented Programming](https://doi.org/10.1016/j.jss.2026.113033)
 - <kbd>ECAI '25</kbd> [Exploiting GenAI for Plan Generation in BDI Agents](https://doi.org/10.3233/FAIA251223)
 
-➡️ Full list on [Google Scholar](https://scholar.google.com/citations?user=YY_KZzoAAAAJ&view_op=list_works&sortby=pubdate) · [DBLP](https://dblp.org/pid/294/4314.html)
+Full list on [Google Scholar](https://scholar.google.com/citations?user=YY_KZzoAAAAJ&view_op=list_works&sortby=pubdate) and [DBLP](https://dblp.org/pid/294/4314.html).
 
-## 🎓 Teaching
+<br>
 
-Adjunct professor at the University of Bologna:
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-teaching-dark.svg"/>
+  <img src="assets/section-teaching-light.svg" width="100%" alt="Teaching"/>
+</picture>
 
-| Course | Degree |
-| :-- | :-- |
-| **Advanced Software Modelling and Design** (Module 2) | Master's in Computer Science and Engineering |
-| **Paradigmi di Programmazione e Sviluppo** (Module 2) | Master's in Computer Science and Engineering |
-| **Progettazione e Sviluppo del Software** (Module 2) | Bachelor's in Computer Systems Technologies |
+Adjunct professor at the University of Bologna (Module 2 of each course):
 
-📌 Latest course updates on my [official university page](https://www.unibo.it/sitoweb/gianluca.aguzzi).
+- **Advanced Software Modelling and Design**, Master's in Computer Science and Engineering
+- **Paradigmi di Programmazione e Sviluppo**, Master's in Computer Science and Engineering
+- **Progettazione e Sviluppo del Software**, Bachelor's in Computer Systems Technologies
 
-## 📊 GitHub Metrics
+Latest course updates on my [university page](https://www.unibo.it/sitoweb/gianluca.aguzzi).
+
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-github-activity-dark.svg"/>
+  <img src="assets/section-github-activity-light.svg" width="100%" alt="GitHub activity"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/metrics-dark.svg"/>
+  <img src="assets/metrics-light.svg" width="100%" alt="GitHub activity: contributions per year, pull requests, repositories contributed to, and repositories by primary language. Refreshed weekly."/>
+</picture>
 
 <div align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cric96&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=cric96&theme=github" alt="GitHub stats"/>
-  </picture>
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cric96&theme=github_dark"/>
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=cric96&theme=github" alt="Top languages"/>
-  </picture>
-  <br><br>
   <a href="https://stackexchange.com/users/14252622"><img src="https://stackexchange.com/users/flair/14252622.png?theme=dark" width="208" height="58" alt="Stack Exchange profile"/></a>
   <br>
   <img src="https://komarev.com/ghpvc/?username=cric96&style=flat-square&color=1e293b&label=profile+views" alt="Profile views"/>
