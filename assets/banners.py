@@ -13,7 +13,7 @@ SANS = "'Space Grotesk',-apple-system,'Segoe UI',Helvetica,Arial,sans-serif"
 
 NAME = "Gianluca Aguzzi"
 ROLE = ["Postdoctoral Researcher & Adjunct Professor", "University of Bologna"]
-SECTIONS = ["About", "Tech stack", "Featured projects", "Selected publications", "Teaching", "GitHub activity"]
+SECTIONS = ["About", "Tech stack", "Featured projects", "Selected publications", "Teaching", "GitHub activity", "Community"]
 
 THEMES = {
     "light": dict(page="#ffffff", bg=("#f8fafc", "#eef2ff"), far="#e2e8f0", text="#0f172a", muted="#475569",

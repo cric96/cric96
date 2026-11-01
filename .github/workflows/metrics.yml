@@ -19,5 +19,5 @@ jobs:
       - run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898233+github-actions[bot]@users.noreply.github.com"
-          git add assets/metrics-*.svg
+          git add assets/metrics-*.svg assets/community-*.svg
           git diff --cached --quiet || { git commit -m "Refresh GitHub metrics"; git push; }

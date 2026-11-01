@@ -10,7 +10,6 @@
 <a href="https://github.com/cric96/curriculum-vitae/releases/latest/download/cv-eng.pdf"><img src="https://img.shields.io/badge/Curriculum_Vitae-PDF-f97316?style=for-the-badge&logo=readme&logoColor=white&labelColor=c2410c" alt="Curriculum Vitae (PDF)"/></a>
 <a href="https://gianluca.aguzzi.dev"><img src="https://img.shields.io/badge/gianluca.aguzzi.dev-1e293b?style=for-the-badge&logo=googlechrome&logoColor=60a5fa" alt="Website"/></a>
 <a href="https://www.linkedin.com/in/gaguzzi/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=data:image/svg%2bxml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0iIzcwYjVmOSIgZD0iTTIwLjQ0NyAyMC40NTJoLTMuNTU0di01LjU2OWMwLTEuMzI4LS4wMjctMy4wMzctMS44NTItMy4wMzctMS44NTMgMC0yLjEzNiAxLjQ0NS0yLjEzNiAyLjkzOXY1LjY2N0g5LjM1MVY5aDMuNDE0djEuNTYxaC4wNDZjLjQ3Ny0uOSAxLjYzNy0xLjg1IDMuMzctMS44NSAzLjYwMSAwIDQuMjY3IDIuMzcgNC4yNjcgNS40NTV2Ni4yODZ6TTUuMzM3IDcuNDMzYy0xLjE0NCAwLTIuMDYzLS45MjYtMi4wNjMtMi4wNjUgMC0xLjEzOC45Mi0yLjA2MyAyLjA2My0yLjA2MyAxLjE0IDAgMi4wNjQuOTI1IDIuMDY0IDIuMDYzIDAgMS4xMzktLjkyNSAyLjA2NS0yLjA2NCAyLjA2NXptMS43ODIgMTMuMDE5SDMuNTU1VjloMy41NjR2MTEuNDUyek0yMi4yMjUgMEgxLjc3MUMuNzkyIDAgMCAuNzc0IDAgMS43Mjl2MjAuNTQyQzAgMjMuMjI3Ljc5MiAyNCAxLjc3MSAyNGgyMC40NTFDMjMuMiAyNCAyNCAyMy4yMjcgMjQgMjIuMjcxVjEuNzI5QzI0IC43NzQgMjMuMiAwIDIyLjIyMiAwaC4wMDN6Ii8+PC9zdmc+" alt="LinkedIn"/></a>
-<a href="https://www.instagram.com/gpaggi96/"><img src="https://img.shields.io/badge/Instagram-1e293b?style=for-the-badge&logo=instagram&logoColor=f472b6" alt="Instagram"/></a>
 <a href="mailto:gianluca.aguzzi@unibo.it"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=f87171" alt="Email"/></a>
 <br>
 <a href="https://scholar.google.com/citations?user=YY_KZzoAAAAJ&hl=it"><img src="https://img.shields.io/badge/Google_Scholar-1e293b?style=for-the-badge&logo=googlescholar&logoColor=60a5fa" alt="Google Scholar"/></a>
@@ -150,8 +149,19 @@ Latest course updates on my [university page](https://www.unibo.it/sitoweb/gianl
   <img src="assets/metrics-light.svg" width="100%" alt="GitHub activity: contributions per year, pull requests, repositories contributed to, and repositories by primary language. Refreshed weekly."/>
 </picture>
 
-<div align="center">
-  <a href="https://stackexchange.com/users/14252622"><img src="https://stackexchange.com/users/flair/14252622.png?theme=dark" width="208" height="58" alt="Stack Exchange profile"/></a>
-  <br>
+<br>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/section-community-dark.svg"/>
+  <img src="assets/section-community-light.svg" width="100%" alt="Community"/>
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="assets/community-dark.svg"/>
+  <img src="assets/community-light.svg" width="100%" alt="Community: Stack Overflow reputation, badges and answers by tag, GitHub organizations and followers, and the open-source repositories I contribute to. Refreshed weekly."/>
+</picture>
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/10295847"><img src="https://img.shields.io/badge/Stack_Overflow-1e293b?style=flat-square&logo=stackoverflow&logoColor=fb923c" alt="Stack Overflow profile"/></a>
   <img src="https://komarev.com/ghpvc/?username=cric96&style=flat-square&color=1e293b&label=profile+views" alt="Profile views"/>
-</div>
+</p>
